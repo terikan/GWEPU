@@ -88,4 +88,3 @@ If you find ADEP useful, consider supporting its continued development with a do
 [☕ Support ADEP via PayPal $10](https://paypal.me/thielensys/10)
 
 
-See the [LICENSE](LICENSE) file for the complete terms.
