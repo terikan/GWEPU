@@ -1,5 +1,7 @@
 # Google Workspace EndPoint and User Management
 
+![alt text](https://github.com/terikan/GWEPU/blob/main/Screenshot%202026-11-03%20153209.png?raw=true)
+
 A Windows desktop administration utility for Google Workspace administrators, designed to simplify Chromebook management, user/device investigation, and remote support.
 
 The tool brings commonly used Google Workspace administrative operations into a single interface, reducing the need to navigate multiple pages in the Google Admin console.
